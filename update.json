@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.2.2",
-  "latestVersionCode": "10",
-  "url": "https://github.com/javiersantos/AppUpdater/releases"
+	"versionCode": 5,
+	"cancellable": false,
+	"url": "https://github.com/p32929/AndroidAppUpdater"
 }
